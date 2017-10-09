@@ -2225,6 +2225,7 @@ public class Learner extends CostSensitiveDecisionSystem {
 	 */
 	public static void main(String[] args) {
 		try {
+			//haha
 			FileOutputStream fs = new FileOutputStream(new File("/Users/dengsiyu/eclipse/workspace/smaleCode/arff/MushroomDD.txt"));
 			PrintStream printStrem = new PrintStream(fs);
 			printStrem.println(fs);
